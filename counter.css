@@ -1,0 +1,60 @@
+#player1 {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 4px;
+    margin-left: 30px;
+}
+ #player2 {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 4px;
+    margin-left: 8px;
+}
+#player1score{
+    /* border: 2px solid black; */
+    margin: 25px;
+    padding: 10px;
+margin-left: 44px;
+font-size: 20px;
+}
+#player2score{
+    /* border: 2px solid black; */
+    margin: 25px;
+    padding: 10px;
+margin-left: 14px;
+font-size: 20px;
+}
+#scoreline{
+    font-size: 20px;
+}
+#select{
+    /* border: 3px solid black; */
+    margin-left: 100px;
+}
+h1{
+    margin-left: 55px;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+
+#scorecard{
+    margin: 140px 387px;
+    border: 5px  solid red;
+    border-radius: 7px;
+    
+}
+#scorecard1{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+#scorecard{
+    background-color: rgb(129, 233, 233);
+}
